@@ -5,6 +5,9 @@
   "name": "vercel-deploy",
   "version": "1.0.0",
   "main": "app.js",
+  "engines": {
+    "node":"14.x"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node app.js"
